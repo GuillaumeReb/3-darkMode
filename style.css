@@ -1,4 +1,8 @@
+body{
+    height: 100%;
+}
 .container{
+    height: 50em;
     background-color: #2c3c54;
 }
 
@@ -27,4 +31,21 @@
     position: absolute;
     top: -1px;
     left: -1px;
+}
+.btn-change{
+ right: -1px;
+ left: auto;   
+}
+
+.icone-change{
+    left: 20px;
+}
+
+.switch-change{
+    background-color: #61b3ff;
+    border: 1px solid #61b3ff;
+}
+
+.container-change{
+    background-color: #cbe6ff;
 }
