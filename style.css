@@ -1,0 +1,30 @@
+.container{
+    background-color: #2c3c54;
+}
+
+.switch{
+    width: 90px;
+    height: 30px;
+    background-color: #1e2939;
+    border-radius: 15px;
+    position: relative;
+    border: 1px solid #1e2939;
+    padding: 1rem;
+}
+
+.switch i{
+    position: absolute;
+    color: #ffd363;
+    top: 6px;
+    right: 23px;
+}
+
+.btn{
+    width: 30px;
+    height: 30px;
+    border-radius: 50%;
+    background-color: white;
+    position: absolute;
+    top: -1px;
+    left: -1px;
+}
